@@ -1,17 +1,17 @@
 {
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Perv - Color Scheme/Perv Orange Moonlight.tmTheme",
-	"font_size": 15,
-	"hot_exit": false,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"remember_open_files": false,
-	"remember_open_folders": false,
-	"theme": "Soda Dark 3.sublime-theme",
-	"trim_trailing_white_space_on_save": true,
-	"auto_complete": false,
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/Perv - Color Scheme/Perv Orange Moonlight.tmTheme",
+    "font_size": 15,
+    "hot_exit": false,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "remember_open_files": false,
+    "remember_open_folders": false,
+    "theme": "Soda Dark 3.sublime-theme",
+    "trim_trailing_white_space_on_save": true,
+    "auto_complete": false,
     "auto_complete_commit_on_tab": true,
     "auto_match_enabled": true,
     "caret_style": "solid",
